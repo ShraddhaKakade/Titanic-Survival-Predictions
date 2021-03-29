@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction-Visualization
+# Titanic-Survival-Prediction
